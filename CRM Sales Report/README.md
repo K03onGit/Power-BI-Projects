@@ -1,6 +1,8 @@
 ## Overview:
 The goal of this Project is to create an interactive dashboard for sales team managers to track and take action plan based on Quarterly performance of their team members.
 
+Report Link - https://app.powerbi.com/view?r=eyJrIjoiNTBiMzU3NGMtZTIwZC00Nzc3LWI2MTctYjk0NjkzOTdlMmUyIiwidCI6IjdkMWM3Nzg1LTJkOGEtNDM3ZC1iODQyLTFlZDVkOGZiZTAwYSIsImMiOjl9
+
 ## About Dataset:
 B2B sales pipeline data from a fictitious company that sells computer hardware, including information on accounts, products, sales teams, and sales opportunities.
 
