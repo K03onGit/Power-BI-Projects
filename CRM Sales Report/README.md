@@ -18,9 +18,10 @@ B2B sales pipeline data from a fictitious company that sells computer hardware, 
 - KPI Cards for Revenue, total deals, Won %, Product level info & Agent level Info.
 
 ## Tools Used:
--Power BI (Data Modeling, Cleaning and Visualization)
--DAX (Custom measures, Slicers & Cards)
--PowerPoint (Background, Navigation Pane)
+- Power BI (Data Modeling, Cleaning and Visualization)
+- DAX (Custom measures, Slicers & Cards)
+- PowerPoint (Background, Navigation Pane)
+
 
 ## Dashboard Preview:
 Manager Overview
