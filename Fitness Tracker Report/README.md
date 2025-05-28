@@ -20,6 +20,7 @@ A fully interactive Power BI report that analyzes fitness metrics like heart rat
   
 
 **Tools Used**:
+
  -**Power BI** - Calculation & Visualization
  -**PowerPoint** - Wireframe & Placeholders for Visuals
 
